@@ -11,7 +11,7 @@ mid diff
 
 ```python
 
-print("3.14dor")
+print("LL")
 
 
 
