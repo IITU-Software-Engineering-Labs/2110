@@ -1,4 +1,13 @@
 # ulykpan
 # GG 
-atlishna rabota
+#Atlishna Rabota
 
+
+
+
+```python
+
+
+print("hello world")
+
+```
