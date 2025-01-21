@@ -8,3 +8,12 @@ nurmukammed kick from 2210
 shnsndns
 снизу лохи
 aqqala
+
+
+
+```python
+
+
+print("na koleni na koleni")
+
+```
