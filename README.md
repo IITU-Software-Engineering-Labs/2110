@@ -6,5 +6,5 @@ eye of rah
 оофцвфцв
 nurmukammed kick from 2210
 shnsndns
-снизу лохи
+снизу 
 aqqala
