@@ -1,3 +1,4 @@
+
 # 2210 for gaini 
 eee shalkar shalbar mukan zhannat
 lebron james
@@ -12,5 +13,44 @@ aqqala
 ```python
 
 print("asd")
+
+ Daulet
+# 2210
+
+
+
+
+
+# 2210
+
+
+```python
+
+print("test")
+
+
+```
+
+
+
+mid diff 
+
+# ulykpan
+# GG 
+#Atlishna Rabota
+
+
+
+
+
+```python
+
+print("LL")
+
+
+
+print("hello world")
+
+
 
 ```
