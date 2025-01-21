@@ -1,4 +1,9 @@
 
+```python
+
+print("दर")
+
+
 # 2210 for gaini 
 eee shalkar shalbar mukan zhannat
 lebron james
@@ -16,13 +21,13 @@ aqqala
 
 
 print("na koleni na koleni")
-=======
+
 print("Hello, world")
-=======
+
 ```python
 
 print("bonjour")
-=======
+
 print("asd")
 
  Daulet
@@ -42,13 +47,6 @@ print("test")
 
 ```
 
-
-
-mid diff 
-
-# ulykpan
-# GG 
-#Atlishna Rabota
 
 
 
