@@ -2,8 +2,6 @@
 # 2210
 
 
-
-print("pidver'")
 =======
 
 mid diff 
