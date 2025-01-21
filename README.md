@@ -1,4 +1,3 @@
 # ulykpan
-# NI
 # GG 
 
