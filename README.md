@@ -10,6 +10,13 @@ shnsndns
 снизу лохи
 aqqala
 
+
+
+```python
+
+
+print("Hello, world")
+=======
 ```python
 
 print("bonjour")
