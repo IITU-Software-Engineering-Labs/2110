@@ -1,3 +1,4 @@
+
 # 2210 for gaini 
 eee shalkar shalbar mukan zhannat
 lebron james
@@ -15,5 +16,52 @@ aqqala
 
 
 print("na koleni na koleni")
+=======
+print("Hello, world")
+=======
+```python
+
+print("bonjour")
+=======
+print("asd")
+
+ Daulet
+# 2210
+
+
+
+
+
+# 2210
+
+
+```python
+
+print("test")
+
+
+```
+
+
+
+mid diff 
+
+# ulykpan
+# GG 
+#Atlishna Rabota
+
+
+
+
+
+```python
+
+print("LL")
+
+
+
+print("hello world")
+
+
 
 ```
