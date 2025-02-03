@@ -1,3 +1,8 @@
+nursmurs
+Nurs potensialnyi titian
+``` python
+print("titanchik")
+
  Daulet
 Daulet
  Daulet
@@ -6,7 +11,9 @@ Daulet
 print("SSSS")
 
 
+
 Sanzhik
+
 sancho bot
 ``` python
 print(sanzhik)
@@ -43,7 +50,6 @@ print("asd")
 print("test")
 print("LL")
 print("hello world")
-
 
 2210 for gaini
 eee shalkar shalbar mukan zhannat
