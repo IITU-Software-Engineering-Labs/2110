@@ -1,8 +1,8 @@
-папу верни
+privet
 
 ```python
 
-print("3.14dor")
+print("3")
 
 
 
