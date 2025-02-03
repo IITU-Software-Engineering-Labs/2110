@@ -1,9 +1,16 @@
+ Daulet
 Daulet
  Daulet
 ```python
 
 print("SSSS")
 
+
+Sanzhik
+sancho bot
+``` python
+print(sanzhik)
+ main
 
 папа-и-мама
 privet
@@ -23,7 +30,7 @@ print("3")
 
 
 print("wassup broski")
-main
+
 
 
 ```python
@@ -50,5 +57,7 @@ shnsndns
 aqqala
 
 Daulet
-2210
+ Daulet
 main
+
+ main
