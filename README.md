@@ -1,10 +1,22 @@
+папа-и-мама
+privet
+
 
 hi fellas
 
+
 Merged by ansar
 pimp your car
+
+
 ```python
+папа-и-мама
+
+print("3")
+
+
 print("wassup broski")
+main
 
 
 ```python
