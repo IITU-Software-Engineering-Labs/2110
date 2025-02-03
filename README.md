@@ -1,4 +1,11 @@
-sdsaadda
+
+hi fellas
+
+Merged by ansar
+pimp your car
+```python
+print("wassup broski")
+
 
 ```python
 print("qwerty")
@@ -24,5 +31,4 @@ shnsndns
 aqqala
 
 Daulet
-
 2210
