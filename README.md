@@ -1,3 +1,8 @@
+Sanzhik
+sancho bot
+``` python
+print(sanzhik)
+
 папа-и-мама
 privet
 
@@ -16,7 +21,7 @@ print("3")
 
 
 print("wassup broski")
-main
+
 
 
 ```python
@@ -44,3 +49,4 @@ aqqala
 
 Daulet
 2210
+
