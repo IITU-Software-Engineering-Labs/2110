@@ -1,26 +1,5 @@
  Daulet
-# 2210
-
-
-=======
-
-mid diff 
-
-# ulykpan
-# GG 
-#Atlishna Rabota
-
-
-
-
-
 ```python
 
-print("LL")
+print("SSSS")
 
-
-
-print("hello world")
-
-
-```
