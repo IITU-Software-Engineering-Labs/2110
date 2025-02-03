@@ -1,13 +1,4 @@
-
-mid diff 
-
-# ulykpan
-# GG 
-#Atlishna Rabota
-
-
-
-
+папу верни
 
 ```python
 
