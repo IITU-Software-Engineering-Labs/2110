@@ -3,6 +3,14 @@ Nurs potensialnyi titian
 ``` python
 print("titanchik")
 
+YernurFT
+
+```python
+
+print("luboi text")
+
+```
+
  Daulet
 Daulet
  Daulet
@@ -67,3 +75,4 @@ Daulet
 main
 
  main
+main
