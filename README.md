@@ -1,3 +1,5 @@
+ Daulet
+
 nursmurs
 Nurs potensialnyi titian
 ``` python
@@ -12,6 +14,7 @@ print("luboi text")
 ```
 
  Daulet
+ main
 Daulet
  Daulet
 ```python

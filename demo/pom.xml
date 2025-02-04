@@ -32,6 +32,8 @@
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
+ Daulet
+
             <artifactId>spring-boot-starter-actuator</artifactId>
         </dependency>
         <dependency>
@@ -41,6 +43,8 @@
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
+Daulet
+
             <artifactId>spring-boot-devtools</artifactId>
             <scope>runtime</scope>
             <optional>true</optional>
