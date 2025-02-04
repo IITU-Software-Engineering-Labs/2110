@@ -1,4 +1,20 @@
+ Daulet
 
+nursmurs
+Nurs potensialnyi titian
+``` python
+print("titanchik")
+
+YernurFT
+
+```python
+
+print("luboi text")
+
+```
+
+ Daulet
+ main
 Daulet
  Daulet
 ```python
@@ -6,7 +22,9 @@ Daulet
 print("SSSS")
 
 
+
 Sanzhik
+
 sancho bot
 ``` python
 print(sanzhik)
@@ -44,7 +62,6 @@ print("test")
 print("LL")
 print("hello world")
 
-
 2210 for gaini
 eee shalkar shalbar mukan zhannat
 lebron james
@@ -61,3 +78,4 @@ Daulet
 main
 
  main
+main
