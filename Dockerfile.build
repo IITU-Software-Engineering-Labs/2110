@@ -1,5 +1,6 @@
-# Build Stage: Use a Maven image with JDK 21 to compile and package the application
+Sanzhik
 FROM maven:3.9.9-eclipse-temurin-21 AS build
+
 WORKDIR /app
 
 # Copy only the pom.xml to download dependencies (enabling build caching)
