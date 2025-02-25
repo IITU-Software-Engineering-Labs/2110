@@ -1,3 +1,4 @@
+osuplayers
 # Build Stage: Use a Maven image with JDK 21 to compile and package the application
 FROM maven:3.9.0-eclipse-temurin-21 AS build
 WORKDIR /app
@@ -23,4 +24,16 @@ COPY --from=build /app/target/docker-demo-0.0.1-SNAPSHOT.jar app.jar
 EXPOSE 8080
 
 # Run the Spring Boot application
+
+# Use an official OpenJDK 21 runtime as the base image
+FROM openjdk:21-slim
+
+# Copy the Spring Boot JAR file from the host to the container and rename it to app.jar
+COPY target/docker-demo-0.0.1-SNAPSHOT.jar app.jar
+
+# Declare that the container listens on port 8080
+EXPOSE 8080
+
+# Define the command to run the application
+main
 ENTRYPOINT ["java", "-jar", "app.jar"]

@@ -1,10 +1,68 @@
+ Daulet
+
+nursmurs
+Nurs potensialnyi titian
+``` python
+print("titanchik")
+
+YernurFT
 
 ```python
 
+print("luboi text")
+
+```
+
+ Daulet
+ main
+Daulet
+ Daulet
+```python
+
+print("SSSS")
+
+
+
+Sanzhik
+
+sancho bot
+``` python
+print(sanzhik)
+ main
+
+папа-и-мама
+privet
+
+
+hi fellas
+
+
+Merged by ansar
+pimp your car
+
+
+```python
+папа-и-мама
+
+print("3")
+
+
+print("wassup broski")
+
+
+
+```python
+print("qwerty")
 print("दर")
+print("na koleni na koleni")
+print("Hello, world")
+print("bonjour")
+print("asd")
+print("test")
+print("LL")
+print("hello world")
 
-
-# 2210 for gaini 
+2210 for gaini
 eee shalkar shalbar mukan zhannat
 lebron james
 Jak krasava
@@ -15,51 +73,9 @@ shnsndns
 снизу лохи
 aqqala
 
-
-
-```python
-
-
-print("na koleni na koleni")
-
-print("Hello, world")
-
-```python
-
-print("bonjour")
-
-print("asd")
-
+Daulet
  Daulet
-# 2210
+main
 
-
-
-
-
-# 2210
-
-
-```python
-
-print("test")
-
-
-```
-
-
-
-
-
-
-```python
-
-print("LL")
-
-
-
-print("hello world")
-
-
-
-```
+ main
+main
